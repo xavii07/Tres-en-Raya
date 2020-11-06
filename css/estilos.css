@@ -12,6 +12,16 @@ h1 {
     font-size: 25px;
 }
 
+span {
+    font-size: 12px;
+    text-align: center;
+    width: 60%;
+    color:rgb(6, 137, 212);
+    font-family: 'Courier New', Courier, monospace;
+    display:block;
+    margin:-15px auto;
+}
+
 .app {
     border:3px solid #000;
     width: 90%;
